@@ -1,0 +1,4 @@
+name = "LoRaPHY"
+uuid = "e172e59e-243b-49a0-a422-c1a064d5e519"
+authors = ["seo12fv <sebastian.oehme@uni-wuerzburg.de>"]
+version = "0.1.0"

@@ -12,12 +12,4 @@ This project implements a LoRa encoding and decoding simulator in Julia. It incl
 - **Configurable LoRa Parameters**:
   - Adjustable spreading factor (SF), coding rates (CR), data rate optimization (DE), and more.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Configuration Parameters](#configuration-parameters)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
